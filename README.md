@@ -1,6 +1,6 @@
 # Hi everyone! 👋
 
-## Find:
+## Find me:
 
 [![Gmail](https://img.shields.io/badge/-wilcatarino@gmail.com-449444?style=flat-square&labelColor=449444&logo=gmail&logoColor=white&link=wilcatarino@gmail.com)](mailto:wilcatarino@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-449444?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-catarino-tavares)](https://www.linkedin.com/in/wilson-catarino-tavares)
@@ -16,14 +16,12 @@ On the personal side, I love my family, my dog ​​(a cute Jack Russell Terrie
 
 However, I have sure we are just one and I believe all sides blend together... I really like a Simon Sinek obvious statement: "100% of customers are people. 100% of employees are people. If you don't understand people, you don't understands business"
 
-<br />
+## Some highlights:
 
-Some highlights:
 - Lead a team with +15 people at different levels in the career, helping to drive your evolution
 - Build a Dev and Support team with great results
 - Design and development of B2C and B2B platforms for healthcare management
-
-<br />
+- Design and development of B2B platforms for logistics
 
 Programming languages:
 - C#, Python, PHP and JavaScript
@@ -34,5 +32,13 @@ Databases:
 Tech tools and frameworks:
 - .NET Framework, .NET Core, Django, Azure DevOps, Jira, Bitbucket, Git Versioning and TFS Versioning
 
+Clouds:
+- MS Azure and AWS
+
 E-commerces and marketplaces:
 - Magento 2 and VTEX
+
+## Some links:
+
+[StackShare](https://stackshare.io/wilcatarino) <br />
+[Credly](https://credly.com/users/wilcatarino)
