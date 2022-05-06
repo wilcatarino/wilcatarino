@@ -2,11 +2,10 @@
 
 ## Find me:
 
-[![Gmail](https://img.shields.io/badge/-wilcatarino@gmail.com-449444?style=flat-square&labelColor=449444&logo=gmail&logoColor=white&link=wilcatarino@gmail.com)](mailto:wilcatarino@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-449444?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-catarino-tavares)](https://www.linkedin.com/in/wilson-catarino-tavares)
-[![Twitter](https://img.shields.io/badge/-@wilcatarino-449444?style=flat-square&labelColor=449444&logo=twitter&logoColor=white&link=https://twitter.com/wilcatarino)](https://twitter.com/wilcatarino)
 
-![Profile Views](https://komarev.com/ghpvc/?username=wilcatarino&color=449444)
+[![Gmail](https://img.shields.io/badge/-wilcatarino@gmail.com-449444?style=flat-square&labelColor=449444&logo=gmail&logoColor=white&link=wilcatarino@gmail.com)](mailto:wilcatarino@gmail.com)
+[![Gmail](https://img.shields.io/badge/-wilson@estoca.com.br-449444?style=flat-square&labelColor=449444&logo=gmail&logoColor=white&link=wilcatarino@gmail.com)](mailto:wilson@estoca.com.br)
 
 ## About:
 
@@ -24,13 +23,13 @@ However, I have sure we are just one and I believe all sides blend together... I
 - Design and development of B2B platforms for logistics
 
 Programming languages:
-- C#, Python, PHP and JavaScript
+- C#, Python, JavaScript (TypeScript) and PHP
 
 Databases:
-- MS SQL Server, MySQL, PostgreSQL and MongoDB
+- MS SQL Server, PostgreSQL, MySQL and MongoDB
 
 Tech tools and frameworks:
-- .NET Framework, .NET Core, Django, Azure DevOps, Jira, Bitbucket, Git Versioning and TFS Versioning
+- .NET Framework, .NET Core, .NET, Django, Node.js, Magento, Azure DevOps, Jira, GitHub, Bitbucket, Git Versioning and TFS Versioning
 
 Clouds:
 - MS Azure and AWS
