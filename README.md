@@ -29,7 +29,7 @@ Databases:
 - MS SQL Server, PostgreSQL, MySQL and MongoDB
 
 Tech tools and frameworks:
-- .NET Framework, .NET Core, .NET, Django, Node.js, Magento, Azure DevOps, Jira, GitHub, Bitbucket, Git Versioning and TFS Versioning
+- .NET Framework, .NET Core, .NET, Django, Node.js, Magento, Azure DevOps, Jira, GitHub, Bitbucket, Git versioning and TFS versioning
 
 Clouds:
 - MS Azure and AWS
@@ -39,5 +39,5 @@ E-commerces and marketplaces:
 
 ## Some links:
 
-[StackShare](https://stackshare.io/wilcatarino) <br />
-[Credly](https://credly.com/users/wilcatarino)
+<a href="https://stackshare.io/wilcatarino" target="_blank">StackShare</a> <br />
+<a href="https://credly.com/users/wilcatarino" target="_blank">Credly</a>
