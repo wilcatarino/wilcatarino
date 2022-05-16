@@ -39,5 +39,5 @@ E-commerces and marketplaces:
 
 ## Some links:
 
-<a href="https://stackshare.io/wilcatarino" target="_blank">StackShare</a> <br />
-<a href="https://credly.com/users/wilcatarino" target="_blank">Credly</a>
+[StackShare](https://stackshare.io/wilcatarino) <br />
+[Credly](https://credly.com/users/wilcatarino)
