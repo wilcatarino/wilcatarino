@@ -6,4 +6,4 @@
 
 ## 🧑‍💻 About:
 
-Software Engineer experienced in software development, software architecture and people leadership.
+Software Engineer with experience in software development, software architecture and people leadership.
