@@ -16,10 +16,10 @@
     {
       "company": "Estoca",
       "site": "https://estoca.com.br",
-      "current_role": "Senior Staff Software Engineer",
+      "last_role": "Senior Staff Software Engineer",
       "work_years": {
         "started_at": 2021,
-        "finished_at": null
+        "finished_at": 2025
       }
     },
     {
