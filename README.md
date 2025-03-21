@@ -14,17 +14,29 @@
   },
   "experiences": [
     {
+      "company": "Zatlas",
+      "site": "https://www.zatlas.com",
+      "current_role": "Founding Software Engineer",
+      "last_role": null,
+      "work_years": {
+        "started_at": 2025,
+        "finished_at": null
+      }
+    },
+    {
       "company": "Estoca",
       "site": "https://estoca.com.br",
+      "current_role": null,
       "last_role": "Senior Staff Software Engineer",
       "work_years": {
         "started_at": 2021,
         "finished_at": 2025
-      }
+      },
     },
     {
       "company": "4BIO Medicamentos Especiais",
       "site": "https://4bio.com.br",
+      "current_role": null,
       "last_role": "Systems Development Coordinator",
       "work_years": {
         "started_at": 2018,
