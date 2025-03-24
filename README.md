@@ -16,7 +16,7 @@
     {
       "company": "Zatlas",
       "site": "https://www.zatlas.com",
-      "current_role": "Founding Software Engineer",
+      "current_role": "Senior Software Engineer (Founding Team)",
       "last_role": null,
       "work_years": {
         "started_at": 2025,
