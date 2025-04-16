@@ -16,7 +16,7 @@
     {
       "company": "Zatlas",
       "site": "https://www.zatlas.com",
-      "current_role": "Senior Software Engineer (Founding Team)",
+      "current_role": "Senior Software Engineer",
       "last_role": null,
       "work_years": {
         "started_at": 2025,
@@ -37,7 +37,7 @@
       "company": "4BIO Medicamentos Especiais",
       "site": "https://4bio.com.br",
       "current_role": null,
-      "last_role": "Systems Development Coordinator",
+      "last_role": "Engineering Manager",
       "work_years": {
         "started_at": 2018,
         "finished_at": 2021
