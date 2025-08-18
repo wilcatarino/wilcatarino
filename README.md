@@ -5,10 +5,11 @@
 ``` json
 {
   "name": "Wilson Tavares",
-  "bio": "Software Engineer with experience in software development, software architecture and people leadership.",
+  "bio": "Software Engineer with expertise in software development, architecture and people leadership.",
   "location": "São Paulo, Brasil",
   "contacts": {
     "email": "wilcatarino@gmail.com",
+    "gravatar": "https://gravatar.com/wilcatarino",
     "github": "https://github.com/wilcatarino",
     "linkedin": "https://www.linkedin.com/in/wilson-catarino-tavares"
   },
@@ -51,4 +52,4 @@
 
 Here you’ll find my projects, ideas and solutions that drive technology forward.
 
-Trying to always exploring, learning and building something new! 🔥
+Trying to always exploring, learning and building something new! 🤓
