@@ -5,7 +5,7 @@
 ``` json
 {
   "name": "Wilson Tavares",
-  "bio": "Software Engineer with expertise in software development, architecture and people leadership.",
+  "bio": "Senior Engineering Leader with experience across software development, architecture and technical leadership.",
   "location": "São Paulo, Brasil",
   "contacts": {
     "email": "wilcatarino@gmail.com",
@@ -17,7 +17,7 @@
     {
       "company": "Zatlas",
       "site": "https://www.zatlas.com",
-      "current_role": "Senior Software Engineer",
+      "current_role": "Engineering Lead",
       "last_role": null,
       "work_years": {
         "started_at": 2025,
