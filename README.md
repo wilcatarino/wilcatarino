@@ -15,13 +15,23 @@
   },
   "experiences": [
     {
-      "company": "Zatlas",
-      "site": "https://www.zatlas.com",
-      "current_role": "Engineering Lead",
+      "company": "Stealth Startup",
+      "site": null,
+      "current_role": "Founding Software Engineer",
       "last_role": null,
       "work_years": {
         "started_at": 2025,
         "finished_at": null
+      }
+    },
+    {
+      "company": "Zatlas",
+      "site": "https://www.zatlas.com",
+      "current_role": null
+      "last_role": "Engineering Lead",
+      "work_years": {
+        "started_at": 2025,
+        "finished_at": 2025
       }
     },
     {
