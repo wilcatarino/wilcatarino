@@ -2,6 +2,7 @@
 
 -----
 
+> See `wilson.json` below for more details.
 ``` json
 {
   "name": "Wilson Tavares",
@@ -9,10 +10,12 @@
   "location": "São Paulo, Brasil",
   "contacts": {
     "email": "wilcatarino@gmail.com",
+  },
+  "links": {
     "gravatar": "https://gravatar.com/wilcatarino",
     "github": "https://github.com/wilcatarino",
     "linkedin": "https://www.linkedin.com/in/wilson-catarino-tavares"
-  },
+  }
   "experiences": [
     {
       "company": "Stealth Startup",
@@ -20,7 +23,7 @@
       "current_role": "Founding Software Engineer",
       "last_role": null,
       "work_years": {
-        "started_at": 2025,
+        "started_at": 2026,
         "finished_at": null
       }
     },
@@ -31,7 +34,7 @@
       "last_role": "Engineering Lead",
       "work_years": {
         "started_at": 2025,
-        "finished_at": 2025
+        "finished_at": 2026
       }
     },
     {
@@ -43,16 +46,6 @@
         "started_at": 2021,
         "finished_at": 2025
       },
-    },
-    {
-      "company": "4BIO Medicamentos Especiais",
-      "site": "https://4bio.com.br",
-      "current_role": null,
-      "last_role": "Engineering Manager",
-      "work_years": {
-        "started_at": 2018,
-        "finished_at": 2021
-      }
     }
   ]
 }
@@ -62,4 +55,4 @@
 
 Here you’ll find my projects, ideas and solutions that drive technology forward.
 
-Trying to always exploring, learning and building something new! 🤓
+Trying to always learning, exploring and building something new! 🤓
